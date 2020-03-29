@@ -1,5 +1,5 @@
 '''
-Problem statement can be found below 
+Problem statement can be found at bottom 
 '''
 
 def flat_matrix(matrixes):
